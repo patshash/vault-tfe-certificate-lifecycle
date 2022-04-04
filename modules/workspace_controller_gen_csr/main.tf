@@ -123,7 +123,7 @@ resource "tfe_team_access" "certificates-team-access" {
 }
 
 data "tfe_organization_membership" "test" {
-  organization  = "pcarey-org"
+  organization  = "pcarey-demo"
   email = "pcarey@hashicorp.com"
 }
 

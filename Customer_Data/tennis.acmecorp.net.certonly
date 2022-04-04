@@ -5,5 +5,5 @@
     "ip_sans" : ["10.10.10.10"],
     "email" : "pcarey@hashicorp.com",
     "username" : "pcarey",
-    "tfc_organisation" : "pcarey-org"
+    "tfc_organisation" : "pcarey-demo"
 }

@@ -10,5 +10,5 @@
     "common_name_tfc" : "gencsr-acmecorp-net",
     "email" : "pcarey@hashicorp.com",
     "username" : "pcarey",
-    "tfc_organisation" : "pcarey-org"
+    "tfc_organisation" : "pcarey-demo"
 }
