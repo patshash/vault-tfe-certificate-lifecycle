@@ -1,0 +1,8 @@
+{
+    "common_name" : "football.acmecorp.net",
+    "common_name_tfc" : "football-acmecorp-net",
+    "alt_names" : ["myfootball.acmecorp.net"],
+    "ip_sans" : ["10.10.10.10"],
+    "email" : "pcarey@hashicorp.com",
+    "username" : "pcarey"
+}
