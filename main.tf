@@ -10,7 +10,7 @@ provider "github" {
 
 locals {
   # Take a directory of JSON files, read each one and bring them in to Terraform's native data set
-  var_certs_w_csr = [ for file in fileset(path.module, "./Customer_Data/submitted_csr/*") : yamldecode(file(file)) ]
+  var_certs_w_csr = [ for file in fileset(path.module, "./Customer_Data/submitted_csr/*.yaml") : yamldecode(file(file)) ]
 
   # Take that data set and format it so that it can be used with the for_each command by converting it to a map
   # where each top level key is a unique identifier.
