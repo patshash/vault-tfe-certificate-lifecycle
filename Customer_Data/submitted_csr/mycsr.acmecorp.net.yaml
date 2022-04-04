@@ -1,0 +1,27 @@
+common_name: "mycsr.acmecorp.net"
+common_name_tfc: "mycsr-acmecorp-net"
+email: "pcarey@hashicorp.com"
+username: "pcarey"
+tfc_organisation: "pcarey-demo"
+certificate_file: |-
+  -----BEGIN CERTIFICATE REQUEST-----
+  MIIC1TCCAb0CAQAwgY8xCzAJBgNVBAYTAkFVMQwwCgYDVQQIDANOU1cxDzANBgNV
+  BAcMBlN5ZG5leTEPMA0GA1UECgwGTXlDb3JwMQ4wDAYDVQQLDAVNeU9yZzEbMBkG
+  A1UEAwwSbXljc3IuYWNtZWNvcnAubmV0MSMwIQYJKoZIhvcNAQkBFhRwY2FyZXlA
+  aGFzaGljb3JwLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALED
+  fXYs0WcmlEhTglqMW6XRm9PGaWmysdQAt1wC5Y4RdIDXSsKF2E2lQ1xd0hYqp6gC
+  3moz+JTT/hJEOztQ2G7z2cgyKtiJ2NeRIDJFs6C7M+J488MRZVdRrVm7EQ+VqPAI
+  pVdv5JLzTkrjBePJLJz+QGgZ0GC8kxSyHlJVJcRWNtxWyB2T8z5RKQ44fLRIYWAr
+  zyVaTmsmS9Vx/xviCYqUi05f6c3WC3l0cRL0fKxowrmQbMqTdN2TPi8nDWKnm6iB
+  dygQZp8RNoqkFTrZrvwHIM+KyHmYsNvefxeDjF8y/pd5fwqoKm8CurzCf87NGlaR
+  WHhpMUbFlrBirkgmhk0CAwEAAaAAMA0GCSqGSIb3DQEBCwUAA4IBAQByb4sD8kxs
+  Lh4FhJMaBWgL1EAPoFnUAWCKfz70nnifhRBdRzDpWe8fNhKfaI2zsKLPE6dhz/OV
+  ooijj069I+Va52I+V5TfmO/fQZ8aKSPKd1ojTuemXxEgSQMP/+Na/65rgnENREsd
+  dS6ERy7BGZnuqy7ts3rlyOUrnUt6fzLPJBX5FEysoLwkWdcnJC9rGZ99DDjWwxT2
+  lGLznusrLrTmQ+t1G7Frohr6aF0QjcUkgbSpoCAmy445polqIExrerYRrSLC3Zqh
+  ZP0YYiteR6stRiQGIn5NJs4gTo8TP0tlpKpBVQv7Rkl7OdKpXJdOT4h77CSrSpie
+  MkVWeaFnXP5I
+  -----END CERTIFICATE REQUEST-----
+
+
+    
