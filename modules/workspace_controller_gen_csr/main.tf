@@ -11,7 +11,7 @@ resource "tfe_workspace" "create-workspace" {
   working_directory = "05_generate_csr"
 
   vcs_repo {
-      identifier = "patshash/tf_vault_certificate_automation"
+      identifier = "patshash/vault-tfe-certificate-lifecycle"
       branch = "demo"
       oauth_token_id = var.oauthid
   }
