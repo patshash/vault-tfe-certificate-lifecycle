@@ -1,9 +1,0 @@
-{
-    "common_name" : "tennis.acmecorp.net",
-    "common_name_tfc" : "tennis-acmecorp-net",
-    "alt_names" : ["mytennis.acmecorp.net"],
-    "ip_sans" : ["10.10.10.10"],
-    "email" : "pcarey@hashicorp.com",
-    "username" : "pcarey",
-    "tfc_organisation" : "pcarey-demo"
-}
