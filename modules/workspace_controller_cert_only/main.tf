@@ -10,7 +10,7 @@ resource "tfe_workspace" "create-workspace" {
   working_directory = "04_cert_only"
 
   vcs_repo {
-      identifier = "patshash/tf_vault_certificate_automation"
+      identifier = "patshash/vault-tfe-certificate-lifecycle"
       branch = "demo"
       oauth_token_id = var.oauthid
   }
@@ -80,7 +80,7 @@ resource "tfe_team_access" "certificates-team-access" {
 }
 
 data "tfe_organization_membership" "test" {
-  organization  = "pcarey-org"
+  organization  = "pcarey-demo"
   email = "pcarey@hashicorp.com"
 }
 

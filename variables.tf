@@ -15,7 +15,7 @@ variable "token" {
 
 variable "organisation" {
     description = "Name of the organisation"
-    default = "pcarey-org"
+    default = "pcarey-demo"
 }
 
 variable "hostname" {
